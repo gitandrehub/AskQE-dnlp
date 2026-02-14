@@ -72,6 +72,7 @@ DNLP-askQE/
 This second option avoids running heavy GPU computations and is recommended if you are mainly interested in the analysis part of the project.
 
 ## Team
+Team Number 18
 - Andrea Cauda s343386 - s343386@studenti.polito.it
 - Roberto Cozzone s336155 - s336155@studenti.polito.it
 - Pietro Giancristofaro s341870 - s341870@studenti.polito.it
